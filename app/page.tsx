@@ -21,7 +21,7 @@ export default function Home() {
             .
           </li>
 
-          <a href="background">Holaaa</a>
+          
           <li>Save and see your changes instantly.</li>
         </ol>
 
